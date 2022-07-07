@@ -12,7 +12,7 @@
     "axios": "^0.18.0",
     "btoa": "^1.2.1",
     "js2excel": "^1.0.1",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "register-service-worker": "^1.0.0",
     "vue": "^2.5.16",
     "vue-localstorage": "^0.6.2",
